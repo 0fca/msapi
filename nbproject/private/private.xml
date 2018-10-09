@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/src/java/com/obsidiam/controller/helper/DatabaseHelper.java</file>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/web/config/environment.properties</file>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/src/java/com/obsidiam/controller/util/AuthHandler.java</file>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/src/java/com/obsidiam/controller/util/ApiLogger.java</file>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/src/java/com/obsidiam/controller/LogoutController.java</file>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/src/java/com/obsidiam/controller/ListNotificationController.java</file>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/src/java/com/obsidiam/model/OperationResultModel.java</file>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/test/test/AssertServletTests.java</file>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/src/java/com/obsidiam/controller/helper/LogHelper.java</file>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/src/java/com/obsidiam/controller/util/ConfigHandler.java</file>
+            <file>file:/mnt/Store2/NetBeansProjects/MS_API/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
